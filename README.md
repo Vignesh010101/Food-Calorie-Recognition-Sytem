@@ -1,7 +1,7 @@
 # Food Calorie Recognition Sytem
 Implementation of a model that can accurately recognize food items from images and estimate their calorie content, enabling users to track their dietary intake and make informed food choices.
 
-Task Description:
+Project Description:
 
 The task at hand involves developing a comprehensive model that seamlessly combines computer vision and machine learning to accurately recognize food items from images and estimate their calorie content. The primary goal is to empower users to track their dietary intake, fostering informed food choices for improved health and well-being. Leveraging advanced techniques such as Convolutional Neural Networks (CNNs) and regression models, the system will process food images, classify items, and provide real-time calorie estimates. The user interface will play a crucial role in enabling users to interact effortlessly with the model, uploading images and receiving instant feedback on recognized food items and their associated calorie content. The overall objective is to create a user-friendly, accurate, and accessible tool that enhances individuals' ability to monitor and manage their dietary habits.
 
